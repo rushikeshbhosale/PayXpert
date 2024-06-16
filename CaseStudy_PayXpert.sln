@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayXpert", "PayXpert_Menu\PayXpert.csproj", "{FA09C862-B0EB-4832-B82D-97EBF9D8575C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayXpert_Menu", "PayXpert\PayXpert_Menu.csproj", "{66FD57D6-9BB3-443A-BFA1-8EAA7385E6C8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PayXpert_Database_Connectivity", "PayXpert_Database_Connectivity\PayXpert_Database_Connectivity.csproj", "{80278CF5-335E-479C-A32E-20F3AB7C770A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayXpertTests", "TestProject1\PayXpertTests.csproj", "{F319DB6E-E50C-4A80-8317-2AC6A484766D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA09C862-B0EB-4832-B82D-97EBF9D8575C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA09C862-B0EB-4832-B82D-97EBF9D8575C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA09C862-B0EB-4832-B82D-97EBF9D8575C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA09C862-B0EB-4832-B82D-97EBF9D8575C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66FD57D6-9BB3-443A-BFA1-8EAA7385E6C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66FD57D6-9BB3-443A-BFA1-8EAA7385E6C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66FD57D6-9BB3-443A-BFA1-8EAA7385E6C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66FD57D6-9BB3-443A-BFA1-8EAA7385E6C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80278CF5-335E-479C-A32E-20F3AB7C770A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80278CF5-335E-479C-A32E-20F3AB7C770A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80278CF5-335E-479C-A32E-20F3AB7C770A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80278CF5-335E-479C-A32E-20F3AB7C770A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F319DB6E-E50C-4A80-8317-2AC6A484766D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F319DB6E-E50C-4A80-8317-2AC6A484766D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F319DB6E-E50C-4A80-8317-2AC6A484766D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F319DB6E-E50C-4A80-8317-2AC6A484766D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38DD46C5-27D1-41B2-AA17-174E632DE302}
+	EndGlobalSection
+EndGlobal
